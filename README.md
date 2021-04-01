@@ -13,7 +13,7 @@ This is a simple program that I wrote to demonstrate and practice the working re
 # Usage: 
 
  * To run this, you need to add the MySQL connector jar file to the build path of the program.
-      (If you are using MySQL - you will need to obtain the respective connector for your setup) 
+      (**If you are using MySQL - you will need to obtain the respective connector for your setup**) 
  * On windows, you can find it located within the MySQL directory from the installation of the MySQL. 
       (**C:\ > Program Files (x86) > MySQL > Connector J 8.0**) 
  * The final step is to make sure that it is included in the build path 
