@@ -13,12 +13,12 @@ This is a simple program that I wrote to demonstrate and practice the working re
 # Usage: 
 
  * To run this, you need to add the MySQL connector jar file to the build path of the program.
-      (**If you are using MySQL - you will need to obtain the respective connector for your setup**) 
+      (If you are using MySQL - you will need to obtain the respective connector for your setup) 
  * On windows, you can find it located within the MySQL directory from the installation of the MySQL. 
-      (C:\ > Program Files (x86) > MySQL > Connector J 8.0) 
-      (If you need to, you can simply download this online from the MySQL site) 
+      (**C:\ > Program Files (x86) > MySQL > Connector J 8.0**) 
  * The final step is to make sure that it is included in the build path 
-      (	Right click the class > build path > Add external archives > select location of SQL connector jar file) 
+      (**Right click the class > build path > Add external archives > select location of SQL connector jar file**) 
+ * Adjust for your configuration as mentioned below!!!
       
     ---------------------------------------------------------------------------------------------------------
     
@@ -26,8 +26,8 @@ This is a simple program that I wrote to demonstrate and practice the working re
 On line 320 I have listed a few JDBC driver's names for different databases, but if the one you need is not listed, you will need to add it. Similarly, the connection URL format for each database type will be slightly different, so you will need to change line 325 based on your own needs. Lines 657-662 will also need to be changed based on your server configuration. Aside from those few things, most everything should be plug and play. 
       
 ## TO DO: 
-	1: Make the program prettier 
-  2: Add support for additional commands 
+1: Make the program prettier 
+2: Add support for additional commands 
 
 
 
