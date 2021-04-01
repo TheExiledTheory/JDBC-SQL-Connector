@@ -25,10 +25,3 @@ Aside from the minor configuration to edit in the rawfile, most everything shoul
     
 # Configure!
 On line 319 I have listed a few JDBC driver's names for different databases, but if the one you need is not listed, you will need to add it. Similarly, the connection URL format for each database type will be slightly different, so you will need to change line 324 based on your own needs. Lines 656-661 will also need to be changed based on your server configuration.
-      
-## TO DO: 
-	1: Make the program prettier 
-	2: Add support for additional commands 
-
-
-
