@@ -22,7 +22,7 @@ This is a simple program that I wrote to demonstrate and practice the working re
       
     ---------------------------------------------------------------------------------------------------------
     
-# READ: 
+# Configure!
 On line 320 I have listed a few JDBC driver's names for different databases, but if the one you need is not listed, you will need to add it. Similarly, the connection URL format for each database type will be slightly different, so you will need to change line 325 based on your own needs. Lines 657-662 will also need to be changed based on your server configuration. Aside from those few things, most everything should be plug and play. 
       
 ## TO DO: 
