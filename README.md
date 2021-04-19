@@ -6,7 +6,7 @@ This is a simple program that I wrote to demonstrate and practice the working re
 Aside from the minor configuration to edit in the rawfile, most everything should be plug and play. I also included a few screenshots to demonstrate its functionality.
 
 ## Last successful test: 03/31/2021
-    Windows 10 
+    Windows 10 Home 
     10.0.19041 Build 19041 
     MySQL Community 8.0.23 with Connector/J
     Eclipse IDE for Java Developers - 2020-12
